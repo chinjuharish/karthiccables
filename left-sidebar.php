@@ -8,7 +8,7 @@
 						<div class="user-menu">
 								<div class="row text-center mbn">
 										<div class="col-xs-4">
-												<a href="dashboard.html" class="text-primary" data-toggle="tooltip" data-placement="top" title="Dashboard">
+												<a href="dashbajksboard.html" class="text-primary" data-toggle="tooltip" data-placement="top" title="Dashboard">
 														<span class="glyphicons glyphicons-home"></span>
 												</a>
 										</div>
